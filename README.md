@@ -1,3 +1,9 @@
+# Q?
+# Eu também quero fazer um commit, mas buguei quando realmente abri o arquivo 
+# Eu literalmente só forkei porque estava escrito "teste"
+# Ass: melissarib
+
+
 # Eu te nhaaaaaamo demais :3 <3 <3 <3 <3
 
 # PS estou fazendo isso para ganhar o ultimo commit lol MAS SAIBA QUE EU REALMENTE TE AMO DEMAIS
