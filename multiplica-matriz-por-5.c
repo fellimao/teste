@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-// multiplica a diagonal por 5
+// multiplica por 5 a diagonal
 int main ()
 {
 	int l, c, A[5][5];
